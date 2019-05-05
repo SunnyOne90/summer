@@ -9,5 +9,8 @@
         <module name="summer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="summer" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

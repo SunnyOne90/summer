@@ -1,7 +1,8 @@
 package com.gf.summer.demo.service.impl;
 
-import com.gupaoedu.vip.spring.demo.service.IModifyService;
-import com.gupaoedu.vip.spring.formework.annotation.GPService;
+
+import com.gf.summer.demo.service.IModifyService;
+import com.gf.summer.formework.annotation.GPService;
 
 /**
  * 增删改业务

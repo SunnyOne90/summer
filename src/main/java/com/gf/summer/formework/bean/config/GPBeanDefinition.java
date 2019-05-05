@@ -1,18 +1,18 @@
 package com.gf.summer.formework.bean.config;
 
 public class GPBeanDefinition {
-    private String beenClassName;
+    private String beanClassName;
 
     private boolean lazyInit = false;
 
     private String factoryBeanName;
 
-    public String getBeenClassName() {
-        return beenClassName;
+    public String getBeanClassName() {
+        return beanClassName;
     }
 
-    public void setBeenClassName(String beenClassName) {
-        this.beenClassName = beenClassName;
+    public void setBeanClassName(String beanClassName) {
+        this.beanClassName = beanClassName;
     }
 
     public boolean isLazyInit() {
